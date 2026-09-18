@@ -1,7 +1,7 @@
 [project]
 name = "cursor-ide"
 version = "0.1.0"
-description = "Add your description here"
+description = "Laboratório de vibe coding, correção e análise de bugs no Cursor."
 readme = "README.md"
 authors = [
     { name = "Carlos Arruda", email = "caugustogarruda@gmail.com" }
