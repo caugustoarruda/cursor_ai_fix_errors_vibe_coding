@@ -1,4 +1,4 @@
-# cursor-ide
+# Vibe Coding Errors
 
 Laboratório para testar e validar **desenvolvimento por vibe coding**: gerar código com IA, corrigir falhas e analisar bugs em um fluxo real de engenharia.
 
